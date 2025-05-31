@@ -253,4 +253,4 @@ def get_last_data():
     return []
 
 if __name__ == "__main__":
-    run()
+    run(0)
